@@ -1,0 +1,201 @@
+a;from;to
+0;Bandung;Bandung
+1;CilebutBogor;Bogor
+2;JakartaSelatan;Jakarta Selatan
+3;Makassar;Makassar
+4;Tangerang;Tangerang
+5;Surabaya;Surabaya
+6;Palembang;Palembang
+7;Bekasi;Bekasi
+8;Bogor;Bogor
+9;Cianjur;Cianjur
+10;Depok;Depok
+11;TangerangSelatan;Tangerang
+12;Denpasar;Denpasar
+13;Gresik;Gresik
+14;Sidoarjo;Sidoarjo
+15;Sleman;Sleman
+16;BandarLampung;Bandar Lampung
+17;Kediri;Kediri
+18;Solo;Solo
+19;JawaTengah52461Tegal;Tegal
+20;Purworejo;Purworejo
+21;ManggaraiBarat;Manggarai
+22;Medan;Medan
+23;Gianyar;Gianyar
+24;Badung;Badung
+25;Serang;Serang
+26;JakartaTimur;Jakarta Timur
+27;WestBandung;Bandung
+28;KulonProgo;Kulon Progo
+29;Semarang;Semarang
+30;Bantul;Bantul
+31;JakartaBarat;Jakarta Barat
+32;Karawang;Karawang
+33;JakartaPusat;Jakarta Pusat
+34;DeliSerdang;Serdang
+35;MantrijeronYogyakarta;Yogyakarta
+36;JakartaSelatanJakartaSelatan;Jakarta Selatan
+37;NarayaResidencePesantrenMijenSemarangSemarang;Semarang
+38;GunungKidul;Gunung Kidul
+39;Magelang;Magelang
+40;Pesawaran;Pesawaran
+41;Malang;Malang
+42;SENAMARCAMANIKBABDUNGWestBandung;Bandung
+43;Buleleng;Buleleng
+44;Yogyakarta;Yogyakarta
+45;JakartaGardenCityCakungJakartaTimur;Jakarta Timur
+46;JalanjenderalSudirmanMakassar;Makassar
+47;SerpongCisaukTangerang;Tangerang
+48;BandungSelatanBandung;Bandung
+49;jalansetiabudiBandungWestBandung;Bandung
+50;LampungSelatan;Lampung
+51;Pekanbaru;Pekanbaru
+52;Sukoharjo;Sukoharjo
+53;Klaten;Klaten
+54;Blitar;Blitar
+55;DenpasarTimurDenpasar;Denpasar
+56;Salatiga;Salatiga
+57;Banjar;Banjar
+58;GandariaJakartaSelatan;Jakarta Selatan
+59;Jl.GubernurH.ABastariJakabringPalembang;Palembang
+60;JakartaUtara;Jakarta Utara
+61;Pasuruan;Pasuruan
+62;Purbalingga;Purbalingga
+63;Jl.CempakaPutihTimurJakartaPusat;Jakarta Pusat
+64;PerumahanRenauEstateRT/RW::024/005No.35Kec.KemiriKab.Tangerang-Banten.Tangerang;Tangerang
+65;JlSelawangiBogor;Bogor
+66;JalanSukmoMedan;Medan
+67;Pekalongan;Pekalongan
+68;KOMPLEKDECASTILLORESIDENCEMEDANMedan;Medan
+69;metlandJakartaBarat;Jakarta Barat
+70;Subang;Subang
+71;Cirebon;Cirebon
+72;Batu;Batu
+73;jljendralsudirmantaluncirebonCirebon;Cirebon
+74;PrabumulihBaratPrabumulih;Prabumulih
+75;Maros;Maros
+76;CilandakJakartaSelatan;Jakarta Selatan
+77;Boyolali;Boyolali
+78;Gowa;Gowa
+79;Tasikmalaya;Tasikmalaya
+80;JALANDURIANRAYAJakartaSelatan;Jakarta Selatan
+81;BandaAceh;Banda Aceh
+82;Sukabumi;Sukabumi
+83;Sumedang;Sumedang
+84;Wonogiri;Wonogiri
+85;Lamongan;Lamongan
+86;Tegal;Tegal
+87;Batam;Batam
+88;Pandeglang;Pandeglang
+89;ArifRahmanHakim60Surabaya;Surabaya
+90;Padang;Padang
+91;Lebak;Lebak
+92;Jl.MetrotajungbungaMakassar;Makassar
+93;DesaBatuTigaManggaraiBarat;Manggarai
+94;JalanKapt.A.BakaruddinKelurahanSelamatKecamatanDanauSipinJambi;Jambi
+95;Jember;Jember
+96;Jl.AhmadYaniNo01KotaBekasiBekasi;Bekasi
+97;GunungGadungBogor;Bogor
+98;Cimahi;Cimahi
+99;Magetan;Magetan
+100;Ciamis;Ciamis
+101;Karanganyar;Karanganyar
+102;JimbaranDenpasar;Denpasar
+103;Manado;Manado
+104;ANdirBandung;Bandung
+105;BukitKecilPalembang;Palembang
+106;Asahan;Asahan
+107;JalanWatesYogyakarta;Yogyakarta
+108;MinahasaUtara;Minahasa
+109;Mojokerto;Mojokerto
+110;Indramayu;Indramayu
+111;Kuningan;Kuningan
+112;JlSaranaUtamalintaspekanbarubangkinangrimbopanjangPekanbaru;Pekanbaru
+113;Jl.R.H.UmarKp.CegerRt.002Rw.018Kel.JakasetiaKec.BekasiSelatanKotaBekasiBekasi;Bekasi
+114;JLOtisaJatiNegaraJakartaTimurJakartaTimur;Jakarta Timur
+115;DesaKutoanyarKecamatanTulungagungKabupatenTulungagungTulungagung;Tulungagung
+116;Cilegon;Cilegon
+117;Jl.PrabuKiansantangTangerang;Tangerang
+118;MuaraBaruJakartaUtara;Jakarta Utara
+119;DekatTransmartManado;Manado
+120;Madiun;Madiun
+121;VillapermatapausQno.23.Jl.PausPekanbaru;Pekanbaru
+122;Banyumas;Banyumas
+123;SembalunLombokTimur;Lombok Timur
+124;Garut;Garut
+125;Purwakarta;Purwakarta
+126;JawaBaratIndramayu;Indramayu
+127;JalanTransyogiBekasi;Bekasi
+128;CHAMOMILEGARDEN-KOMPLEKBUMISEROJAPERMAIMEDANMedan;Medan
+129;MasukDariJalanPecilonCirebon;Cirebon
+130;TerusanCibaduyutrancamanyarBandung;Bandung
+131;JL.PANGLIMA-SentosaLama-MEDANMedan;Medan
+132;JalanNgenepKarangplosoMalangJatimMalang;Malang
+133;VIVOCITYSQUAREJALANMANDALADEKATJALANLETDASUJONOMEDANMedan;Medan
+134;SasakPanjangBogor;Bogor
+135;BogorKotaBogor;Bogor
+136;Jl.RayaProvinsiGunungTugelBanyumas;Banyumas
+137;JalanRayaCikunirBekasi;Bekasi
+138;LampungTengah;Lampung
+139;Jombang;Jombang
+140;JEFFERSONHOUSEJALANRAKYATMEDANMedan;Medan
+141;Tabanan;Tabanan
+142;JalanCitraMajaRayaBoulevardBanterTangerang;Tangerang
+143;CimanggisDepok;Depok
+144;Klungkung;Klungkung
+145;JL.PUKAT3-Mandala-MEDANMedan;Medan
+146;Bojonegoro;Bojonegoro
+147;Jl.DesasatriajayaBekasi;Bekasi
+148;IndraprastaBogor;Bogor
+149;NusaTenggaraTimurSumbaBarat;Sumba Barat
+150;JalanmanglayangCihanjuangWestBandung;Bandung
+151;PerumahanTamanArgoSuburTangerang;Tangerang
+152;Banjarmasin;Banjarmasin
+153;Banyuasin;Banyuasin
+154;TimohoTownHouseYogyakarta;Yogyakarta
+155;DaerahIstimewaYogyakarta55571Yogyakarta;Yogyakarta
+156;BogorBogor;Bogor
+157;Jl.LapanganTembakno10PasareboJakartaTimurJakartaTimur;Jakarta Timur
+158;Pemalang;Pemalang
+159;JlbibisrayabangunjiwoBantul;Bantul
+160;JLTENJOBogor;Bogor
+161;VILLAGUNUNGBURINGMalang;Malang
+162;PagarAlamResidenceBandarLampung;Lampung
+163;Jljogjasolokm6Yogyakarta;Yogyakarta
+164;JalanRayaHankamBekasi;Bekasi
+165;JalanJenderalAhmadYaniJakartaPusat;Jakarta Pusat
+166;SpecialRegionofYogyakarta55241Yogyakarta;Yogyakarta
+167;BukitPermataCimahiBandung;Bandung
+168;Ngada;Ngada
+169;Kulonprogo-Wates-Jogja-WonosariYogyakarta;Yogyakarta
+170;BEKASITIMURBekasi;Bekasi
+171;BumipanyileukanBandung;Bandung
+172;BoyolaliBoyolali;Boyolali
+173;SpecialRegionofYogyakarta55771Bantul;Bantul
+174;westvistaJakartaBarat;Jakarta Barat
+175;KarangloMalang;Malang
+176;jawabarat40559WestBandung;Bandung
+177;Jl.LingkarTimurKm.4Sidoarjo;Sidoarjo
+178;BatujajarBaratWestBandung;Bandung
+179;Jl.LewidulangRancamulya.TerusanCibaduyutBandung;Bandung
+180;JalanMuhajirinPekanbaru;Pekanbaru
+181;Jl.GajahMadaJakartaBarat;Jakarta Barat
+182;Jl.MelatiKaranggintungBanyumas;Banyumas
+183;KampungFlorySleman;Sleman
+184;TambunBekasi;Bekasi
+185;JalanAiranRayaGg.KutilangWayHuiBandarLampung;Lampung
+186;JalanAmperaKotaPontianakPontianak;Pontianak
+187;Samarinda;Samarinda
+188;JLGunungAndakasaGatsuBaratDenpasar;Denpasar
+189;MalangMalang;Malang
+190;SukamulyaBogor;Bogor
+191;Jl.mataairBandarLampung;Lampung
+192;JalanTusamMedan;Medan
+193;TanjungsariBogor;Bogor
+194;MarelanMedan;Medan
+195;KomplekHotelAmartahills.JalanAbdulGhaniAtas.BatuBatu;Batu
+196;LingkarTimurTomohonTomohon;Tomohon
+197;DaerahIstimewaYogyakarta55223Yogyakarta;Yogyakarta
+198;Banyuwangi;Banyuwangi
+199;jalanmelatisumbersekardauMalang;Malang
